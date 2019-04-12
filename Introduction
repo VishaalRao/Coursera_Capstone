@@ -1,0 +1,5 @@
+A business man wishes to open a chain of fast food restaurants around the city of Mumbai. Mumbai being one of the busiest cities in the world also houses one of the busiest commuter rail systems with over 7.5 million commuters daily. 
+He decides to look for the ideal location which is close to a railway station with high footfall and in an area with a high density of other fast food restaurants. This idea is based on the concept of game theory and Nesh equilibrium theorem that when shops of the same kind open close to one another tends to result in more profit.
+He also wishes to acquire the price range (1 being the cheapest and 4 being the highest) and the ratings of the restaurants nearby.
+This methodology is a single step in order to understand the best location for any establishment. Similar process can be used for schools, offices, hospitals, markets etc.
+In this example only crowd from railways was considered. It could be made more precise by adding tourist attractions or other crowded areas.
