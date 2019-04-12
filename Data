@@ -1,0 +1,5 @@
+Data for the following command will be obtained mostly via foursquare
+•	Search command will be used to receive the venue ID of the restaurants.
+•	Explore command will be used to obtain venue details (Name, Rating, cost, latitude, longitude)
+•	Search command will be used once again to receive the details (Name, Latitude, Longitude) of the railway stations
+https://nearfox.com/mumbai/10-busiest-stations-in-mumbai/ is to be data scraped to get the foot fall in the Top 10 busiest stations in Mumbai
